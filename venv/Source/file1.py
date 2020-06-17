@@ -1,4 +1,4 @@
 'Learning python conventions'
 print("hello world")
-for i in range(100):
+for i in range(102):
     print(i)
